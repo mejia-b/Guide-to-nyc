@@ -1,1 +1,1 @@
-web: gunicorn nycguide.wsgi --log-file
+web: gunicorn nycguide.wsgi --log-file -
